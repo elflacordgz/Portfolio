@@ -1,0 +1,80 @@
+body{
+background: #DCAB26;
+background: radial-gradient(at center top, #DCAB26, #F34906);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+#cara{
+height: 20vh;
+border-radius: 16px;
+margin-top: 14vh;
+margin-left: 100vh;
+}
+
+#mundo{
+    height: 2vh;
+    width: 2vh;
+}
+
+.contacto{
+    height: 4vh;
+    margin-top: 2vh;
+    margin-right: 2vh;
+    margin-bottom: 14vh;
+}
+
+.Conocimientosimg{
+    height: 10vh;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+}
+
+.Conocimientos{
+    text-align: center;
+    margin-bottom: 5vh;
+}
+
+.Proyectosimg{
+height: 15vh;
+border-radius: 16px;
+align-items: center;
+margin-bottom: 2vh;
+}
+
+.Texto{
+    text-align: center;
+    margin-bottom: 5vh;
+    margin-top: 2vh;
+    font-weight: 700;
+}
+
+.Certificacionesimg{
+height: 15vh;
+border-radius: 16px;
+margin-top: 3vh;
+margin-bottom: 2vh;
+}
+
+.Nombre{
+    position: absolute;
+    display: inline-block;
+    width: 400px;
+    padding-top: 18vh;
+}
+
+h6{
+    display: inline-block;
+}
+
+.sobremi{
+    padding-bottom: 4vh;
+    text-align: center;
+}
+
+.Titulos{
+    text-align: center;
+    margin-top: 4vh;
+    margin-bottom: 4vh;
+    font-weight: bolder;
+}
