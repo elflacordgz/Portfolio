@@ -1,6 +1,6 @@
 body{
 background: #DCAB26;
-background: radial-gradient(at center top, #DCAB26, #F34906);
+background: radial-gradient(at center top, #DCAB26,rgb(255, 2, 2));
 background-repeat: no-repeat;
 background-size: cover;
 }
